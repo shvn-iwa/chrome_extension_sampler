@@ -1,5 +1,5 @@
 {
-    "name": "flutter_chrome_extension",
+    "name": "chrome_extension_sampler",
     "description": "flutter_chrome_extension",
     "version": "1.0.0",
     "content_security_policy": {
